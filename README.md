@@ -6,7 +6,7 @@ This small piece of code deliver a very usefull functionality to your code.
 You will able to measure the perfomrance of your code
  
 Main features:
-- Write the result to a file along
+- Write the result to a file
 - Calculation of minimum, maximum and  average execution time of a section
 of code
 
